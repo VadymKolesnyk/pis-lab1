@@ -47,14 +47,6 @@
 Завантажте файл README.TXT у репозиторій в гілку DEV. Яку треба застосувати команду git та додайте лістинг виконання команди. 
 
 ```bash
->>> git branch dev
->>> git branch qa
-```
-
-***
-Завантажте файл README.TXT у репозиторій в гілку DEV. Яку треба застосувати команду git та додайте лістинг виконання команди. 
-
-```bash
 >>> git checkout dev
 >>> touch README.txt
 >>> git add README.txt
